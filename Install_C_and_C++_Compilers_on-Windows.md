@@ -10,3 +10,4 @@ If you are using the most used Windows operating system, then I already have wri
 
 - [How to Install C and C++ Compilers on Windows](https://www.freecodecamp.org/news/how-to-install-c-and-cpp-compiler-on-windows/)
 - [How to Set up Visual Studio Code for C and C++ Programming](https://www.youtube.com/watch?v=77v-Poud_io)
+- [C/C++ for Visual Studio Code](https://code.visualstudio.com/docs/languages/cpp)
