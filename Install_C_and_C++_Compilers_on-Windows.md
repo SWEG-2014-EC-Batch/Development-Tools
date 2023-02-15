@@ -9,3 +9,4 @@ You can check the version using the same commands on any operating system, wheth
 If you are using the most used Windows operating system, then I already have written an in-depth article showing you all the processes step-by-step on freeCodeCamp. Make sure to read the entire article first, as it also contains a complete video to provide you with complete support.
 
 - [How to Install C and C++ Compilers on Windows](https://www.freecodecamp.org/news/how-to-install-c-and-cpp-compiler-on-windows/)
+- [How to Set up Visual Studio Code for C and C++ Programming](https://www.youtube.com/watch?v=77v-Poud_io)
